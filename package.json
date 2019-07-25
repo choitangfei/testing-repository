@@ -1,0 +1,16 @@
+{
+  "name": "testing-repository",
+  "version": "1.0.0",
+  "description": "only for testing",
+  "main": "index.js",
+  "repository": "https://github.com/choitangfei/testing-repository.git",
+  "author": "Choi Tang Fei <choitangfei@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
